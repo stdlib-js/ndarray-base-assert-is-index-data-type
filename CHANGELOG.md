@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-09-20)
 
 <section class="features">
 
 ### Features
 
+-   [`b60d327`](https://github.com/stdlib-js/stdlib/commit/b60d327ae58661ce0eb20d503aca140c683f9406) - add support for non-string data types
 -   [`bd8958d`](https://github.com/stdlib-js/stdlib/commit/bd8958d43f54be203ffa1f6665a51f782a4aca6d) - add `ndarray/base/assert/is-index-data-type`
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`b60d327`](https://github.com/stdlib-js/stdlib/commit/b60d327ae58661ce0eb20d503aca140c683f9406) - **feat:** add support for non-string data types _(by Athan Reines)_
 -   [`bd8958d`](https://github.com/stdlib-js/stdlib/commit/bd8958d43f54be203ffa1f6665a51f782a4aca6d) - **feat:** add `ndarray/base/assert/is-index-data-type` _(by Athan Reines)_
 
 </details>
