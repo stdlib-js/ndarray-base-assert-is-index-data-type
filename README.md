@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-data-type@esm/index.mjs';
+import isIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-data-type@v0.1.0-esm/index.mjs';
 ```
 
 #### isIndexDataType( value )
@@ -93,7 +93,7 @@ bool = isIndexDataType( 'int32' );
 <body>
 <script type="module">
 
-import isIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-data-type@esm/index.mjs';
+import isIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-index-data-type@v0.1.0-esm/index.mjs';
 
 var bool = isIndexDataType( 'binary' );
 // returns false
